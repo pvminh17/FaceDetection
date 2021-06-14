@@ -1,0 +1,10 @@
+1. build-classifier.py 
+Tệp này sẽ xây dưng các bộ phân lớp, sau đó sẽ demo bằng cách sử dụng các bộ phân lớp đó để tiến hành tìm kiếm khuôn mặt trong các ảnh có trong thư mục /image
+
+2. Facedetection-realtime-haarcascade-using-opencv.py
+Tệp này sẽ dùng các bộ phân lớp đã được xây dựng sẵn (những bộ phân lớp này có độ chính xác cao) để phát hiện khuôn mặt thông camera trên máy tính
+(nhấn phím Q để thoát khi chạy chương trình)
+
+3.faceDetection-in-image-opencv-haarcascade.py
+Tệp này sẽ dùng các bộ phân lớp đã được xây dựng sẵn để phát hiện khuôn mặt có trong một tấm ảnh
+(nhấn phím Q để thoát khi chạy chương trình)
